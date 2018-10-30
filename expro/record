@@ -1,0 +1,2 @@
+如果要使用数据库表名不区分大小写的话，就需要在[mysqld]下面添加一行配置，即 lower_case_table_names=1:
+
